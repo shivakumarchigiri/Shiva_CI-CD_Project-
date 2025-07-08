@@ -8,13 +8,13 @@
     <version>8.3.0</version>
     <packaging>war</packaging>
 
-	<!-- <properties>
+	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://3.83.18.215:9000/</sonar.host.url>
+		<sonar.host.url>13.221.91.168:9000/</sonar.host.url>
 
 	</properties>
 
-	<distributionManagement>
+<!-- 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
 		    <url>http://ec2-44-202-247-118.compute-1.amazonaws.com:8081/repository/batch14-repo-snapshots/</url>
@@ -24,7 +24,7 @@
 		    <id>NexusRepo</id>
 		    <url>http://ec2-44-202-247-118.compute-1.amazonaws.com:8081/repository/batch14-repo-release/</url>
 		</repository>
-  	</distributionManagement> -->
+  	</distributionManagement>  -->
 
     
     <build>
